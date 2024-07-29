@@ -1,35 +1,47 @@
-I will be convering these:
-Convolutional Neural Networks (CNNs):
+# Deep Learning Model Implementations
 
-AlexNet - done
-VGGNet - done
-Inception (GoogLeNet) - inprogress
-ResNet
-DenseNet
-Object Detection Models:
+This repository contains implementations of various deep learning models across different domains including Convolutional Neural Networks (CNNs), Object Detection, Segmentation, Generative Models, Vision Transformers, and Multitask Models. Below is a list of the models covered:
 
-YOLO (You Only Look Once)
-SSD (Single Shot MultiBox Detector)
-Faster R-CNN
-Mask R-CNN
+## Convolutional Neural Networks (CNNs)
+- [x] AlexNet
+- [x] VGGNet
+- [ ] Inception (GoogLeNet) - In Progress
+- [ ] ResNet
+- [ ] DenseNet
 
-Segmentation Models:
-U-Net
-SegNet
-DeepLab
-PSPNet (Pyramid Scene Parsing Network)
-Generative Models:
+## Object Detection Models
+- [ ] YOLO (You Only Look Once)
+- [ ] SSD (Single Shot MultiBox Detector)
+- [ ] Faster R-CNN
+- [ ] Mask R-CNN
 
-GAN (Generative Adversarial Network)
-DCGAN (Deep Convolutional GAN)
-CycleGAN
-Pix2Pix
-Vision Transformers (ViT):
+## Segmentation Models
+- [ ] U-Net
+- [ ] SegNet
+- [ ] DeepLab
+- [ ] PSPNet (Pyramid Scene Parsing Network)
 
-Vision Transformer (ViT)
-DeiT (Data-efficient Image Transformers)
-Swin Transformer (Shifted Window Transformer)
-Multitask Models:
+## Generative Models
+- [ ] GAN (Generative Adversarial Network)
+- [ ] DCGAN (Deep Convolutional GAN)
+- [ ] CycleGAN
+- [ ] Pix2Pix
 
-EfficientDet
-Detr (Detection Transformer)
+## Vision Transformers (ViT)
+- [ ] Vision Transformer (ViT)
+- [ ] DeiT (Data-efficient Image Transformers)
+- [ ] Swin Transformer (Shifted Window Transformer)
+
+## Multitask Models
+- [ ] EfficientDet
+- [ ] Detr (Detection Transformer)
+
+### Contributions
+Contributions are welcome! If you have implemented any of these models or have improvements, please feel free to submit a pull request.
+
+### License
+This project is licensed under the MIT License.
+
+---
+
+Feel free to modify it further to suit your specific needs.
